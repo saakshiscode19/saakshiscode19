@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="saakshi.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/saakshis19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/saakshiscode19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h3 align="left"> 🤖 Exploring Machine Learning & AI.
+<h3 align="left"> 🤖 Exploring </h3>Machine Learning & AI.
  
 Always excited to learn, build, and collaborate on impactful projects.
 Open to collaboration & internships.</h3>
