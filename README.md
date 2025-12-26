@@ -4,14 +4,14 @@
   <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Saakshi Sharma
+        👋 Hi, my name is Saakshi Sharma.
       </h1>
     </summary>
   </ul>
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="saakshi.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/saakshis19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/saakshiscode19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"> <a href="saakshi.code@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/saakshis19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/saakshiscode19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <h3 align="left"> 🤖 Exploring Machine Learning & AI.
  
@@ -20,7 +20,7 @@ Open to collaboration & internships.</h3>
 
 <h3 align="left">Rapid Fire</h3>
 
-- 🌱 I'm currently learning: **📚 Exploring Machine Learning & Deep Learning , Computer Vision techniques,Backend Development with Firebase & REST APIs  **
+🌱 I'm currently learning: 📚 Exploring Machine Learning & Deep Learning , Computer Vision techniques,Backend Development with Firebase & REST APIs  
 
  <h3 align="center">Skills</h3>
 
