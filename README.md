@@ -22,12 +22,12 @@
 
 #### **Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
 #### **Frontend Development**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=html,react,tailwind,bootstrap,materialui" />
 </p>
 
 #### **Backend Development**
