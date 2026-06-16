@@ -22,17 +22,17 @@
 
 #### **Languages**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
 </p>
 
 #### **Frontend Development**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,angular,vue,tailwind,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui" />
 </p>
 
 #### **Backend Development**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 #### **Databases**
